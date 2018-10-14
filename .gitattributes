@@ -1,2 +1,3 @@
 */Makefile language-vendored
 */*.d language-vendored
+*/*.o language-vendored
