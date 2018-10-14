@@ -1,4 +1,0 @@
-*/Makefile linguist-vendored
-*/*.d linguist-vendored
-*/*.so linguist-vendored
-*/*.o linguist-vendored
