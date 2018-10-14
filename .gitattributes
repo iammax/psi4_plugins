@@ -1,3 +1,2 @@
-*/Makefile language-vendored
-*/*.d language-vendored
-*/*.o language-vendored
+*/Makefile linguist-vendored
+*/*.d linguist-vendored
