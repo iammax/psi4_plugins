@@ -1,1 +1,3 @@
 Some plugins I made using a THC (tensor hyper contraction) enabled fork of [PSI4](https://github.com/psi4/psi4). The modification is used in the Hohenstein research group. Sometime I may re-write these plugins to be consistent with the publicly available release. - Max Mathless
+
+Please note that PSI4 generates a lot of files when creating a new plugin directory and when compiling plugins. Many of these include paths to user-configured directories, such as where psi4 is installed. This will be different for all users, so I have attempted to only include files that should be able to run on any machine that has the proper version of PSI4 installed.
